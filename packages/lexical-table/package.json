@@ -1,5 +1,5 @@
 {
-  "name": "@lexical/table",
+  "name": "@iaotle/lexical-table",
   "description": "This package provides the Table feature for Lexical.",
   "keywords": [
     "lexical",
@@ -8,7 +8,7 @@
     "table"
   ],
   "license": "MIT",
-  "version": "0.30.0",
+  "version": "0.30.2",
   "main": "LexicalTable.js",
   "types": "index.d.ts",
   "dependencies": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/lexical",
+    "url": "https://github.com/Iaotle/lexical",
     "directory": "packages/lexical-table"
   },
   "module": "LexicalTable.mjs",
